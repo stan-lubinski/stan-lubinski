@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @stan-lubinski
 - 👀 I’m interested in front-end development (particularly Angular) 
-- 🌱 I’m currently working on improving my web development skills
+- 🌱 I’m currently working on expanding my portfolio and having fun with some pet projects
 - 💞️ I’m looking to collaborate on any Angular projects
 - 📫 How to reach me: stanislauliubinski@gmail.com
 
